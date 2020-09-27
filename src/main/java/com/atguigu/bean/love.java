@@ -8,5 +8,6 @@ public class love {
         System.out.println("宰猪");
         System.out.println(" 宰猪，大家辛苦了" );
         System.out.println(" 我是李四" );
+        System.out.println("I'm Iron man'");
     }
 }
